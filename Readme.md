@@ -26,6 +26,11 @@ Spotting differences includes the ability to see similar lines of codes and noti
 
 >Why do you need to not copy and paste?
 
+Because you want to build muscle memory and use repetition to understand what it is that you are typing. 
+The difficulty helps it stay it your brain. 
+
 
 
 >Why is Practice and Persistence important?
+
+Because that is how concepts and skills begin to stick, after many many instances of practice. Persistence is important when you encounter obstactles and causes you to move forward with confidence that you can conquer these problems. 
