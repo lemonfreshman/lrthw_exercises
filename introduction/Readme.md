@@ -14,7 +14,7 @@ class that I'm taking, titled "Building the Toolbelt of a Junior Ruby on Rails D
 What are the three most essential skills that a beginner programmer needs to know?
 Please explain these three skills in your own words.
 
-Reading and writing is the ability to read and understand
+Reading and writing: This includes the ability to read and understand
 concepts and the ability to communicate. 
   
 
