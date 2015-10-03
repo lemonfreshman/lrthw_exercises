@@ -36,11 +36,11 @@ grenadine:mystuff $ ls
 
 >Array
 
-http://ruby-doc.org/core-2.2.0/Array.html 
+http://ruby-doc.org/core-2.2.3/Array.html 
 
 >Hash
 
-http://ruby-doc.org/core-2.2.0/Hash.html
+http://ruby-doc.org/core-2.2.3/Hash.html
 
 >Chronic (Rubygem)
 
