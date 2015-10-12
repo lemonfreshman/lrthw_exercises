@@ -12,9 +12,7 @@ Put a # (octothorpe) character at the beginning of a line. What did it do? Try t
 
 Make your script print only one of the lines
 
->I put =begin at the top of the lines and insert 
-=end on the line before the last line, leaving only the last line to be printed. 
-
+>I commented out all of the lines except one with the hash symbol. 
 
 
 
