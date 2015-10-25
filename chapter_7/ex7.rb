@@ -1,12 +1,13 @@
 # returns the string to the console on a new line
 puts "Mary had a little lamb."
 # puts the string on new line with interpolation so its just snow
+# rubocop:disable Lint/LiteralInInterpolation:
 puts "Its fleece was white as #{'snow'}."
+# rubocop:enable Lint/LiteralInInterpolation:
 # returns the string on a new line
 puts "And everywhere that Mary went."
 # returns the string "." added together 10 times
-puts "." * 10  # what'd that do?
-
+puts "." * 10 # what'd that do?
 
 # Each line here assigns a single character string to each variable
 end1 = "C"
